@@ -84,7 +84,7 @@ public class MinhaCalculadora extends JFrame {
 				int x, y;
 				x = Integer.parseInt(num1.getText());
 				y = Integer.parseInt(num2.getText());
-				JOptionPane.showMessageDialog(adicao, "A adição é = " + (x + y));
+				JOptionPane.showMessageDialog(adicao, "A soma é = " + (x + y));
 			}
 		});
 		
